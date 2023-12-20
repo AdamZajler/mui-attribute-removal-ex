@@ -19,5 +19,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## See attribute error
 Just comment / uncomment `compiler` option in next.config.js 
-# mui-attribute-removal-ex
-# mui-attribute-removal-ex
